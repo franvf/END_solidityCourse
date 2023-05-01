@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Skin",
+        "value": "Armor"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Sword"
+      }
+    ],
+    "description": "Gladiator with sword and armor",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNv8bSR3zZjC7c5W1vMWt8PG8rW8R4VVtzuFEKfBxgbzX/armadura-espada.jpg",
+    "name": "gladiator-seven"
+}

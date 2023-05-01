@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Skin",
+        "value": "Helmet"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Sword"
+      }
+    ],
+    "description": "Gladiator with sword and helmet",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNv8bSR3zZjC7c5W1vMWt8PG8rW8R4VVtzuFEKfBxgbzX/casco-espada.jpg",
+    "name": "gladiator-four"
+}

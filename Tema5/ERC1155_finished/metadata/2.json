@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Skin",
+        "value": "Boots"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Spear"
+      }
+    ],
+    "description": "Gladiator with spear and boots",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNv8bSR3zZjC7c5W1vMWt8PG8rW8R4VVtzuFEKfBxgbzX/lanza-botas.jpg",
+    "name": "gladiator-two"
+}
